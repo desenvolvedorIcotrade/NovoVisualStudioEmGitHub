@@ -1,0 +1,29 @@
+css-less-scss: [ aeschli ], 
+
+
+ 
+        debug-console: [], 
+
+
+ 
+        debug: { 
+
+
+ 
+            assignees: [ weinand ], 
+
+
+ 
+            assignees: [ isidorn ], 
+
+
+ 
+            assignLabel: false 
+
+
+ 
+        }, 
+
+
+ 
+        diff-editor: [], 
